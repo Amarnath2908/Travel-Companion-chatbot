@@ -1,6 +1,7 @@
+streamlit
 supabase
 deep-translator
 langdetect
 httpx
 wikipedia
-streamlit
+python-dotenv
