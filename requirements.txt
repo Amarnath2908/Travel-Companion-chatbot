@@ -1,0 +1,4 @@
+supabase
+deep-translator
+langdetect
+httpx
